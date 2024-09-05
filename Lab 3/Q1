@@ -1,5 +1,4 @@
-the value entred is the wrong data type. Its data type should have been long integer.
+//the value entred is the wrong data type. Its data type should have been long integer.
+//the correct code would be:
 
-the correct code would be:
-
-long int tstInteger = 3000000000;
+long int testInteger = 3000000000;
