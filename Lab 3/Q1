@@ -1,4 +1,8 @@
 //the value entred is the wrong data type. Its data type should have been long integer.
 //the correct code would be:
-
-long int testInteger = 3000000000;
+#include <stdio.h>
+int main()
+{
+long long int testInteger = 3000000000;
+printf("%lld", testInteger);
+}
