@@ -3,9 +3,9 @@
 
 ## About Me
 
-🌱 Zunairah Aziz Shaikh
+🌱 HI! I'm Zunairah Aziz Shaikh
 
-🌱 CS undergraduate at **FAST NUCESS**
+🌱 CS undergraduate at **FAST NUCES**
 
 🌱 I love puzzle solving and reading!
 
