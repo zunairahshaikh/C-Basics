@@ -7,7 +7,7 @@
 
 🌱 CS undergraduate at **FAST NUCES**
 
-🌱 I love puzzle solving and reading!
+🌱 I love puzzle solving and reading
 
 Follow me through my journey of navigating the world of programming!
 
