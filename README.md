@@ -7,6 +7,8 @@
 
 🌱 CS undergraduate at **FAST NUCES**
 
+🌱 I'm currently learning C
+
 🌱 I love puzzle solving and reading
 
 Follow me through my journey of navigating the world of programming!
