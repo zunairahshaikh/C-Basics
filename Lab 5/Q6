@@ -1,0 +1,1 @@
+Due to order of precedence, the compiler first compares 2<5 (which i true) then does the comparion 1!= 1 which is false, hence the ternanry operator prints the false expression (i.e 30)
