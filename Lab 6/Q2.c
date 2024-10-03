@@ -4,6 +4,8 @@ int main() {
     int num, isPrime=1;
     printf("Enter the number you want to check: ");
     scanf("%d", &num);
+    if(num==1 ||num ==0)
+        printf("Not a prime number");
     for(int i=2; i<num;i++){
         if(num%i==0)
             isPrime =0;
