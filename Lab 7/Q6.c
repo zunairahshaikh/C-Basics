@@ -12,7 +12,7 @@ int main() {
   
   for(int i=0;i<10;i++){
       if(freq[i]>0){
-          printf("%d occurs %d times",i,freq[i]);
+          printf("%d occurs %d times \n",i,freq[i]);
       }
   }
 
