@@ -1,3 +1,7 @@
+/*Create a program that accepts a 2D array of strings (e.g., 5 words with a max length of 20
+characters each). Determines if each word (row) is a palindrome. Outputs “Palindrome” or “Not
+Palindrome” for each word. A palindrome is a word that reads the same forward and backward.*/
+
 #include <stdio.h>
 #include <string.h>
 
