@@ -1,3 +1,8 @@
+/*Write a recursive function linearSearch that takes an array, its size, the target element
+to search for, and the current index. It checks if the target is at the current index and
+continues searching in the subsequent indices until it either finds the target or exhausts
+the array.*/
+
 #include <stdio.h>
 
 int linearSearch(int arr[], int size, int key) {
