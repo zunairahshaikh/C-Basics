@@ -18,8 +18,8 @@ void book_package(travel_package packages[], int size);
 int main() {
     int n = 3;
     travel_package packages[3] = {
-        {"Island Getaway", "Maldives", 2, 1500.0, 10},
-        {"Cultural Adventure", "Japan", 3, 2500.0, 5},
+        {"Mountain Getaway", "Nepal", 2, 1500.0, 10},
+        {"Skiing Adventure", "Finland", 3, 2500.0, 5},
         {"Wildlife Safari", "Kenya", 1, 2000.0, 8}
     };
 
