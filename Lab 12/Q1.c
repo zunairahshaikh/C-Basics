@@ -1,3 +1,4 @@
+//q1 Write a program that calculates the sum of all the elements in array using pointers
 #include <stdio.h>
 #include <stdlib.h>
 
