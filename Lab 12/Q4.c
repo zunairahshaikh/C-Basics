@@ -8,12 +8,12 @@ Dynamic Array = "Muhib Ahmed" */
 int main()
 {
     int N;
-    char *namePtr, name[100];
+    char *dynamicArr, name[100];
     printf("Enter the total number of characters in your name (first+last with the space): ");
     scanf("%d", &N);
 
-    namePtr = (char *)malloc(N, 1);
-    if (namePtr == NULL)
+    dynamicArr = (char *)malloc(N, 1);
+    if (dynamicArr == NULL)
     {
         printf("Cannot Allocate memory\n");
         return 1;
@@ -24,10 +24,10 @@ int main()
     fgets(name, sizeof(name), stdin);
     name[strcspn(name, "\n")] = '\0';
 
-    strncpy(namePtr, name, N);
+    strncpy(dynamicArr, name, N);
 
-    printf("Dynamic Array: %s\n", namePtr);
+    printf("Dynamic Array: %s\n", dynamicArr);
 
-    free(namePtr);
+    free(dynamicArr);
     return 0;
 }
